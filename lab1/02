@@ -1,0 +1,15 @@
+http://localhost/lw1/mysql_is_a_database_server.html:
+404 not found
+Ошибка: сервер не смог найти соответствующий файл. Для решения необходимо создать такой файл.
+
+http://localhost/lw1/nginx_is_fast_http_server.txt:
+Status Code: 200 OK
+Запрос выполнен успешно (специальное поведение).
+
+http://localhost/lw1/php_is_a_server_scripting_language.php:
+Status Code 302 Found
+Запрошенный документ временно доступен по другому URL (специальное поведение).
+
+http://localhost/lw1/javascript_is_a_client_side_language.php?how_to_work=hardly:
+400 Bad Request
+Сервер обнаружил в запросе клиента синтаксическую ошибку. Для решения необходимо в запросе заменить hardly на hard
