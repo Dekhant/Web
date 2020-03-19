@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "remove_duplicates": {
-      "commandName": "Project",
-      "commandLineArgs": "\"Hello World!!!\""
-    }
-  }
-}
