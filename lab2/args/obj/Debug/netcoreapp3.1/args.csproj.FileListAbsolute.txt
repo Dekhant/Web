@@ -1,0 +1,13 @@
+C:\Users\sasha\source\repos\args\bin\Debug\netcoreapp3.1\args.exe
+C:\Users\sasha\source\repos\args\bin\Debug\netcoreapp3.1\args.deps.json
+C:\Users\sasha\source\repos\args\bin\Debug\netcoreapp3.1\args.runtimeconfig.json
+C:\Users\sasha\source\repos\args\bin\Debug\netcoreapp3.1\args.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\args\bin\Debug\netcoreapp3.1\args.dll
+C:\Users\sasha\source\repos\args\bin\Debug\netcoreapp3.1\args.pdb
+C:\Users\sasha\source\repos\args\obj\Debug\netcoreapp3.1\args.csprojAssemblyReference.cache
+C:\Users\sasha\source\repos\args\obj\Debug\netcoreapp3.1\args.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\args\obj\Debug\netcoreapp3.1\args.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\args\obj\Debug\netcoreapp3.1\args.AssemblyInfo.cs
+C:\Users\sasha\source\repos\args\obj\Debug\netcoreapp3.1\args.dll
+C:\Users\sasha\source\repos\args\obj\Debug\netcoreapp3.1\args.pdb
+C:\Users\sasha\source\repos\args\obj\Debug\netcoreapp3.1\args.genruntimeconfig.cache
