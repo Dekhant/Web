@@ -12,4 +12,4 @@ Status Code 302 Found
 
 http://localhost/lw1/javascript_is_a_client_side_language.php?how_to_work=hardly:
 400 Bad Request
-Сервер обнаружил в запросе клиента синтаксическую ошибку. Для решения необходимо в запросе заменить hardly на hard
+Непрвавильнный запрос от клиента. Для решения необходимо в запросе заменить hardly на hard
